@@ -1,0 +1,14 @@
+.img-thumbnail {
+  padding: .25rem;
+  background-color: #3B99E0;
+  border: 1px solid #212529;
+  border-radius: .25rem;
+  max-width: 100%;
+  height: auto;
+}
+
+.btn-outline-primary {
+  color: #3B99E0;
+  border-color: #3B99E0;
+}
+
